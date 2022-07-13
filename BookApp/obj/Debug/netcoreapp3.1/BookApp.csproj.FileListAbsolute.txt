@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.exe
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.deps.json
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.json
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\Korisnik\source\repos\BookApp\BookApp\bin\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.dll
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.pdb
+C:\Users\Korisnik\source\repos\BookApp\BookApp\obj\Debug\netcoreapp3.1\BookApp.genruntimeconfig.cache
